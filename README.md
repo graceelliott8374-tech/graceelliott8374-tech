@@ -6,7 +6,7 @@ Full Stack MERN Developer | Psychology Student | Building practical software tha
 
 I'm a Full Stack MERN developer and Psychology student concentrating in Addiction Studies at Southern New Hampshire University. I enjoy building practical software for small businesses, compliance, and behavioral health while continually expanding my skills in modern web development.
 
-## Current Projects
+## Research & Active Development
 
 - **Personal Portfolio** – A React portfolio showcasing my technical projects, education, and professional experience.
 - **TraceLayer** – A documentation and asset-tracking platform designed to streamline warehouse operations through structured data capture, inventory documentation, and project tracking.
