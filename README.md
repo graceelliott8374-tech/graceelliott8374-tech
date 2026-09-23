@@ -99,6 +99,12 @@ The portfolio is being designed as a scalable professional CV with individual pr
   <img src="https://img.shields.io/badge/Insomnia-20232A?style=for-the-badge&logo=insomnia&logoColor=4000BF" alt="Insomnia">
 </p>
 
+### Research & Experimental Tools
+
+<p>
+  <img src="https://img.shields.io/badge/jsPsych-20232A?style=for-the-badge" alt="jsPsych">
+</p>
+
 ## Education
 
 ### Southern New Hampshire University
