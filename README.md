@@ -30,14 +30,15 @@ A research-focused evidence platform designed to help researchers discover, orga
 
 A cognitive psychology learning and research platform designed for students and professors.
 
-Students can complete assigned learning and experimental modules, while professors can manage assignments and review collected data.
+Students can complete assigned learning and experimental modules, while professors can manage assignments and review collected data. Browser-based cognitive experiments are implemented using jsPsych.
 
-**Technologies:** React, JavaScript, Node.js, Express
+**Technologies:** React, JavaScript, jsPsych, Node.js, Express
 
 **Current development includes:**
 - Student and professor account systems
 - Assigned experimental modules
-- Cognitive psychology lessons
+- Interactive cognitive psychology lessons
+- Browser-based cognitive experiments using jsPsych
 - Knowledge checks
 - Research methods instruction
 - Experimental data collection
